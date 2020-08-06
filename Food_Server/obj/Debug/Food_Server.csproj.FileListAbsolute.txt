@@ -1,0 +1,8 @@
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\obj\Debug\Food_Server.Food_Server.resources
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\obj\Debug\Food_Server.Properties.Resources.resources
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\obj\Debug\Food_Server.csproj.GenerateResource.Cache
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\bin\Debug\Food_Server.exe.config
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\bin\Debug\Food_Server.exe
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\bin\Debug\Food_Server.pdb
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\obj\Debug\Food_Server.exe
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Server\obj\Debug\Food_Server.pdb

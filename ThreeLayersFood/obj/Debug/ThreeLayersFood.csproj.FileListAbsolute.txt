@@ -1,0 +1,8 @@
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\bin\Debug\ThreeLayersFood.exe.config
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\bin\Debug\ThreeLayersFood.exe
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\bin\Debug\ThreeLayersFood.pdb
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\obj\Debug\ThreeLayersFood.Properties.Resources.resources
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\obj\Debug\ThreeLayersFood.csproj.GenerateResource.Cache
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\obj\Debug\ThreeLayersFood.exe
+c:\users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\obj\Debug\ThreeLayersFood.pdb
+C:\Users\anhky\documents\visual studio 2017\Projects\ThreeLayersFood\ThreeLayersFood\obj\Debug\ThreeLayersFood.FoodPL.resources

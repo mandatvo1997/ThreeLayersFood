@@ -1,0 +1,12 @@
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Client.exe.config
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Client.exe
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Client.pdb
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.Food_Client.resources
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.Properties.Resources.resources
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.csproj.GenerateResource.Cache
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.exe
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.pdb
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\obj\Debug\Food_Client.csprojResolveAssemblyReference.cache
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Server.exe
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Server.pdb
+C:\Users\anhky\Documents\Visual Studio 2017\Projects\ThreeLayersFood\Food_Client\bin\Debug\Food_Server.exe.config
